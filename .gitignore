@@ -1,0 +1,7 @@
+.idea/
+Godeps/
+bin/
+paw.iml
+pkg/
+src/github.com/
+src/golang.org/
